@@ -1,0 +1,5800 @@
+[
+  {
+    "image": {
+      "name": "rs_000241.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 133.22,
+              "y": 216.68,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 148.88,
+              "y": 220.92,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 166.6,
+              "y": 225.82,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 171.64,
+              "y": 210.14,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 160.27,
+              "y": 205.7,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 146.84,
+              "y": 200.61,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 169.12,
+              "y": 217.98,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 193.36,
+              "y": 225.76,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 160.84,
+              "y": 239.6,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 174.71,
+              "y": 240.15,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 189.7,
+              "y": 237.17,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 197.02,
+              "y": 214.35,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 186.56,
+              "y": 203.21,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 174.97,
+              "y": 195.59,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 168.9,
+          "y": 217.87
+        },
+        "scale": 0.293,
+        "bbox": [
+          126.22,
+          188.59,
+          85.36,
+          58.56
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 423,
+          "camera_view": "ground_level",
+          "altitude_band": "high",
+          "occlusion": "none",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000242.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 890.3,
+              "y": 565.66,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 889.51,
+              "y": 535.32,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 887.83,
+              "y": 501.99,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 912.1,
+              "y": 503.27,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 907.4,
+              "y": 536.6,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 897.62,
+              "y": 567.05,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 899.97,
+              "y": 502.63,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 902.71,
+              "y": 450.25,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 875.32,
+              "y": 486.43,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 869.57,
+              "y": 467.76,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 882.57,
+              "y": 448.53,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 922.84,
+              "y": 451.97,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 941.26,
+              "y": 477.9,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 947.64,
+              "y": 506.3,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 910.64,
+          "y": 496.88
+        },
+        "scale": 0.797,
+        "bbox": [
+          862.16,
+          417.21,
+          96.96,
+          159.33
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 424,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 657.24,
+              "y": 470.16,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 654.43,
+              "y": 450.74,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 650.81,
+              "y": 433.01,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 667.7,
+              "y": 433.55,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 671.08,
+              "y": 451.3,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 669.27,
+              "y": 470.35,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 659.25,
+              "y": 433.28,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 665.0,
+              "y": 402.13,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 633.24,
+              "y": 432.42,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 635.87,
+              "y": 415.72,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 651.31,
+              "y": 401.33,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 678.7,
+              "y": 402.93,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 687.25,
+              "y": 415.6,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 687.85,
+              "y": 423.45,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 662.04,
+          "y": 433.83
+        },
+        "scale": 0.53,
+        "bbox": [
+          625.69,
+          380.84,
+          72.7,
+          105.99
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 425,
+          "camera_view": "oblique",
+          "altitude_band": "high",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000243.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 389.53,
+              "y": 167.84,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 413.87,
+              "y": 183.51,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 438.68,
+              "y": 199.51,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 456.66,
+              "y": 174.35,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 434.81,
+              "y": 157.01,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 412.49,
+              "y": 139.33,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 447.67,
+              "y": 186.93,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 486.56,
+              "y": 214.73,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 430.65,
+              "y": 206.64,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 451.73,
+              "y": 220.3,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 473.48,
+              "y": 233.02,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 499.63,
+              "y": 196.43,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 480.55,
+              "y": 179.97,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 460.81,
+              "y": 164.44,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 449.01,
+          "y": 187.38
+        },
+        "scale": 0.621,
+        "bbox": [
+          375.53,
+          125.33,
+          146.96,
+          124.11
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 426,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000244.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 632.38,
+              "y": 363.31,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 621.35,
+              "y": 370.94,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 609.98,
+              "y": 378.76,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 626.15,
+              "y": 409.2,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 638.03,
+              "y": 404.66,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 650.24,
+              "y": 399.95,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 618.07,
+              "y": 393.98,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 598.69,
+              "y": 404.27,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 598.55,
+              "y": 354.92,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 591.29,
+              "y": 365.79,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 586.93,
+              "y": 382.13,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 610.46,
+              "y": 426.41,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 626.44,
+              "y": 431.94,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 639.51,
+              "y": 432.01,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 617.52,
+          "y": 393.47
+        },
+        "scale": 0.535,
+        "bbox": [
+          569.81,
+          339.92,
+          95.43,
+          107.09
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 427,
+          "camera_view": "top_down",
+          "altitude_band": "mid",
+          "occlusion": "partial",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000245.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 652.8,
+              "y": 387.88,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 643.67,
+              "y": 314.57,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 654.79,
+              "y": 240.72,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 692.52,
+              "y": 245.0,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 678.37,
+              "y": 325.95,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 688.22,
+              "y": 402.29,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 673.65,
+              "y": 242.86,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 648.45,
+              "y": 140.7,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 623.21,
+              "y": 225.34,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 621.4,
+              "y": 187.57,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 621.17,
+              "y": 137.7,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 675.73,
+              "y": 143.71,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 663.96,
+              "y": 207.54,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 630.04,
+              "y": 226.99,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 665.9,
+          "y": 243.82
+        },
+        "scale": 1.876,
+        "bbox": [
+          594.47,
+          56.23,
+          142.87,
+          375.19
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 428,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 717.4,
+              "y": 339.49,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 704.28,
+              "y": 279.8,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 708.35,
+              "y": 217.35,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 750.62,
+              "y": 221.63,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 746.22,
+              "y": 288.89,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 751.75,
+              "y": 354.19,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 729.49,
+              "y": 219.49,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 726.28,
+              "y": 118.29,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 693.46,
+              "y": 197.79,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 687.03,
+              "y": 160.98,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 693.87,
+              "y": 113.99,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 758.69,
+              "y": 122.59,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 768.59,
+              "y": 186.34,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 756.45,
+              "y": 230.4,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 737.12,
+          "y": 206.35
+        },
+        "scale": 1.75,
+        "bbox": [
+          680.31,
+          31.31,
+          113.63,
+          350.08
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 429,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 492.03,
+              "y": 374.63,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 481.73,
+              "y": 317.32,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 485.36,
+              "y": 235.81,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 520.42,
+              "y": 238.99,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 518.19,
+              "y": 322.43,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 519.46,
+              "y": 378.58,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 502.89,
+              "y": 237.4,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 471.0,
+              "y": 145.47,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 452.0,
+              "y": 237.95,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 441.99,
+              "y": 193.37,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 446.8,
+              "y": 140.91,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 495.21,
+              "y": 150.02,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 483.58,
+              "y": 207.86,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 459.88,
+              "y": 256.26,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 492.13,
+          "y": 175.88
+        },
+        "scale": 1.168,
+        "bbox": [
+          424.93,
+          59.12,
+          134.41,
+          233.51
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 430,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000246.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 1,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 2,
+              "x": 190.86,
+              "y": 637.72,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 401.67,
+              "y": 627.96,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 5,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 6,
+              "x": 296.26,
+              "y": 632.84,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 311.91,
+              "y": 365.17,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 164.5,
+              "y": 407.84,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 63.46,
+              "y": 552.44,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 151.12,
+              "y": 369.42,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 472.7,
+              "y": 360.92,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 574.01,
+              "y": 538.46,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 566.76,
+              "y": 520.23,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 320.19,
+          "y": 330.0
+        },
+        "scale": 2.983,
+        "bbox": [
+          3.23,
+          31.69,
+          633.93,
+          596.63
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 431,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "partial",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000247.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 561.45,
+              "y": 231.94,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 553.73,
+              "y": 217.41,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 544.79,
+              "y": 200.3,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 529.97,
+              "y": 207.32,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 534.07,
+              "y": 217.71,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 539.39,
+              "y": 230.67,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 537.38,
+              "y": 203.81,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 526.52,
+              "y": 180.9,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 549.82,
+              "y": 199.31,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 543.75,
+              "y": 187.46,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 537.3,
+              "y": 175.79,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 515.74,
+              "y": 186.01,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 520.69,
+              "y": 198.39,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 526.03,
+              "y": 210.6,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 538.6,
+          "y": 200.69
+        },
+        "scale": 0.383,
+        "bbox": [
+          508.74,
+          162.43,
+          59.71,
+          76.51
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 432,
+          "camera_view": "oblique",
+          "altitude_band": "high",
+          "occlusion": "none",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000248.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 400.42,
+              "y": 610.34,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 382.76,
+              "y": 538.38,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 397.28,
+              "y": 384.67,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 492.63,
+              "y": 392.03,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 542.94,
+              "y": 552.52,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 599.05,
+              "y": 636.91,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 444.95,
+              "y": 388.35,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 437.04,
+              "y": 176.63,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 280.16,
+              "y": 103.64,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 313.36,
+              "y": 167.49,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 369.64,
+              "y": 162.89,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 504.44,
+              "y": 190.38,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 517.39,
+              "y": 315.67,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 479.29,
+              "y": 397.18,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 433.53,
+          "y": 327.14
+        },
+        "scale": 2.941,
+        "bbox": [
+          256.05,
+          33.04,
+          354.96,
+          588.2
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 433,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000249.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 1,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 2,
+              "x": 355.64,
+              "y": 611.28,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 509.06,
+              "y": 619.02,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 5,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 6,
+              "x": 432.35,
+              "y": 615.15,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 458.15,
+              "y": 326.96,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 309.36,
+              "y": 358.99,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 270.58,
+              "y": 452.05,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 341.1,
+              "y": 324.0,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 575.2,
+              "y": 329.92,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 664.91,
+              "y": 497.22,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 530.5,
+              "y": 463.2,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 479.9,
+          "y": 364.48
+        },
+        "scale": 2.648,
+        "bbox": [
+          269.75,
+          99.66,
+          420.31,
+          529.64
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 434,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "partial",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000250.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 318.78,
+              "y": 35.7,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 321.41,
+              "y": 54.97,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 324.24,
+              "y": 76.58,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 344.03,
+              "y": 74.81,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 343.59,
+              "y": 59.72,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 342.94,
+              "y": 42.29,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 334.13,
+              "y": 75.69,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 336.86,
+              "y": 106.28,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 313.35,
+              "y": 76.0,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 316.86,
+              "y": 91.88,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 322.46,
+              "y": 107.56,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 351.25,
+              "y": 105.0,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 353.99,
+              "y": 88.57,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 354.65,
+              "y": 72.33,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 334.0,
+          "y": 77.65
+        },
+        "scale": 0.51,
+        "bbox": [
+          304.35,
+          26.7,
+          59.3,
+          101.9
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 435,
+          "camera_view": "ground_level",
+          "altitude_band": "high",
+          "occlusion": "partial",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000251.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 1,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 2,
+              "x": 563.54,
+              "y": 612.04,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 425.0,
+              "y": 621.16,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 5,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 6,
+              "x": 494.27,
+              "y": 616.6,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 503.82,
+              "y": 318.86,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 623.1,
+              "y": 402.49,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 637.97,
+              "y": 448.66,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 605.41,
+              "y": 311.97,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 402.24,
+              "y": 325.74,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 318.52,
+              "y": 469.1,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 373.13,
+              "y": 401.39,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 476.04,
+          "y": 374.76
+        },
+        "scale": 2.558,
+        "bbox": [
+          290.53,
+          118.96,
+          371.02,
+          511.6
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 436,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "partial",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 1,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 2,
+              "x": 812.64,
+              "y": 578.01,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 741.59,
+              "y": 590.87,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 593.62,
+              "y": 577.86,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 6,
+              "x": 777.12,
+              "y": 584.44,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 804.58,
+              "y": 330.72,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 713.19,
+              "y": 335.33,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 789.87,
+              "y": 411.01,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 856.06,
+              "y": 317.61,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 753.09,
+              "y": 343.82,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 704.59,
+              "y": 490.72,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 658.59,
+              "y": 401.65,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 751.45,
+          "y": 399.39
+        },
+        "scale": 2.349,
+        "bbox": [
+          616.72,
+          164.48,
+          269.46,
+          469.83
+        ],
+        "activity": {
+          "category": "crouching",
+          "activity": "crouching under cover"
+        },
+        "extra": {
+          "annotation_id": 437,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "partial",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000252.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 84.18,
+              "y": 129.71,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 86.26,
+              "y": 148.32,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 88.52,
+              "y": 169.67,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 107.37,
+              "y": 168.44,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 107.34,
+              "y": 154.83,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 107.13,
+              "y": 138.47,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 97.94,
+              "y": 169.06,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 99.84,
+              "y": 198.19,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 81.8,
+              "y": 168.65,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 83.57,
+              "y": 183.89,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 86.13,
+              "y": 199.09,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 113.56,
+              "y": 197.3,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 114.12,
+              "y": 181.9,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 113.9,
+              "y": 166.55,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 97.96,
+          "y": 170.25
+        },
+        "scale": 0.485,
+        "bbox": [
+          73.8,
+          121.71,
+          48.32,
+          97.09
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 438,
+          "camera_view": "oblique",
+          "altitude_band": "high",
+          "occlusion": "none",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000253.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 210.05,
+              "y": 369.87,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 187.45,
+              "y": 380.29,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 165.21,
+              "y": 390.57,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 175.29,
+              "y": 415.59,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 199.47,
+              "y": 407.18,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 223.28,
+              "y": 398.91,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 170.25,
+              "y": 403.08,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 131.57,
+              "y": 418.65,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 157.62,
+              "y": 366.13,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 139.73,
+              "y": 380.3,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 124.25,
+              "y": 400.45,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 138.9,
+              "y": 436.86,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 164.04,
+              "y": 440.66,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 186.75,
+              "y": 438.48,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 168.12,
+          "y": 403.39
+        },
+        "scale": 0.493,
+        "bbox": [
+          100.95,
+          354.13,
+          134.33,
+          98.53
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 439,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000254.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 148.27,
+              "y": 620.0,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 155.69,
+              "y": 532.13,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 103.19,
+              "y": 381.58,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 46.33,
+              "y": 370.78,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 96.27,
+              "y": 516.23,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 110.74,
+              "y": 598.23,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 74.76,
+              "y": 376.18,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 110.84,
+              "y": 160.63,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 170.51,
+              "y": 321.69,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 131.2,
+              "y": 257.65,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 151.89,
+              "y": 170.61,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 69.8,
+              "y": 150.66,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 45.6,
+              "y": 243.03,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 133.71,
+              "y": 308.18,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 108.92,
+          "y": 323.71
+        },
+        "scale": 2.92,
+        "bbox": [
+          6.3,
+          31.72,
+          205.24,
+          583.98
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 440,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 324.87,
+              "y": 455.77,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 359.28,
+              "y": 417.63,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 345.63,
+              "y": 367.41,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 334.77,
+              "y": 365.6,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 359.89,
+              "y": 409.06,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 334.84,
+              "y": 439.43,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 340.2,
+              "y": 366.5,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 312.7,
+              "y": 311.52,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 351.58,
+              "y": 331.42,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 354.34,
+              "y": 334.83,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 322.85,
+              "y": 311.57,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 302.55,
+              "y": 311.47,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 330.8,
+              "y": 335.39,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 336.99,
+              "y": 329.35,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 335.71,
+          "y": 367.0
+        },
+        "scale": 0.999,
+        "bbox": [
+          275.89,
+          267.07,
+          119.65,
+          199.87
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 441,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000255.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 402.71,
+              "y": 328.09,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 419.41,
+              "y": 315.62,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 438.84,
+              "y": 301.54,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 413.19,
+              "y": 257.84,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 399.25,
+              "y": 263.35,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 382.58,
+              "y": 270.47,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 426.01,
+              "y": 279.69,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 453.83,
+              "y": 263.37,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 450.0,
+              "y": 323.74,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 462.36,
+              "y": 311.35,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 472.48,
+              "y": 295.15,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 435.17,
+              "y": 231.58,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 416.09,
+              "y": 232.52,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 399.25,
+              "y": 237.28,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 428.66,
+          "y": 279.84
+        },
+        "scale": 0.713,
+        "bbox": [
+          359.58,
+          208.58,
+          138.17,
+          142.51
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 442,
+          "camera_view": "top_down",
+          "altitude_band": "low",
+          "occlusion": "partial",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000256.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 232.04,
+              "y": 487.7,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 259.06,
+              "y": 497.41,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 285.94,
+              "y": 474.43,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 328.59,
+              "y": 475.25,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 319.41,
+              "y": 494.46,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 291.95,
+              "y": 485.86,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 307.26,
+              "y": 474.84,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 308.64,
+              "y": 430.62,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 248.8,
+              "y": 497.47,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 258.64,
+              "y": 481.82,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 277.48,
+              "y": 433.68,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 339.8,
+              "y": 427.56,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 362.81,
+              "y": 479.23,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 319.42,
+              "y": 488.39,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 281.33,
+          "y": 443.44
+        },
+        "scale": 0.747,
+        "bbox": [
+          185.8,
+          368.72,
+          191.05,
+          149.43
+        ],
+        "activity": {
+          "category": "seated",
+          "activity": "seated awaiting rescue"
+        },
+        "extra": {
+          "annotation_id": 443,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 807.19,
+              "y": 528.9,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 786.85,
+              "y": 466.53,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 759.86,
+              "y": 535.57,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 672.31,
+              "y": 536.82,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 644.75,
+              "y": 465.85,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 621.96,
+              "y": 530.75,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 716.09,
+              "y": 536.2,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 708.66,
+              "y": 385.99,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 787.07,
+              "y": 469.51,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 799.34,
+              "y": 471.5,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 766.63,
+              "y": 383.12,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 650.69,
+              "y": 388.86,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 632.65,
+              "y": 487.13,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 633.78,
+              "y": 522.1,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 700.03,
+          "y": 403.78
+        },
+        "scale": 1.572,
+        "bbox": [
+          577.41,
+          246.61,
+          245.25,
+          314.34
+        ],
+        "activity": {
+          "category": "crouching",
+          "activity": "crouching under cover"
+        },
+        "extra": {
+          "annotation_id": 444,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 922.72,
+              "y": 540.41,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 905.89,
+              "y": 362.2,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 876.9,
+              "y": 176.56,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 910.61,
+              "y": 166.72,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 922.23,
+              "y": 350.9,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 923.78,
+              "y": 531.01,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 893.75,
+              "y": 171.64,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 856.5,
+              "y": 78.62,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 828.2,
+              "y": 184.49,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 808.98,
+              "y": 130.64,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 856.5,
+              "y": 78.62,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 14,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 15,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            }
+          ]
+        },
+        "objpos": {
+          "x": 855.81,
+          "y": 300.04
+        },
+        "scale": 2.977,
+        "bbox": [
+          751.61,
+          2.37,
+          208.39,
+          595.33
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 445,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "partial",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000257.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 443.73,
+              "y": 526.98,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 571.48,
+              "y": 376.55,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 691.41,
+              "y": 461.77,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 720.44,
+              "y": 496.74,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 591.38,
+              "y": 413.73,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 444.38,
+              "y": 560.36,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 705.92,
+              "y": 479.25,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 814.7,
+              "y": 402.93,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 671.7,
+              "y": 378.8,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 719.36,
+              "y": 394.22,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 792.88,
+              "y": 383.76,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 836.52,
+              "y": 422.1,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 797.09,
+              "y": 476.84,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 707.06,
+              "y": 439.9,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 574.35,
+          "y": 472.89
+        },
+        "scale": 1.38,
+        "bbox": [
+          268.71,
+          334.89,
+          611.28,
+          276.01
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 446,
+          "camera_view": "top_down",
+          "altitude_band": "low",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000258.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 1,
+              "x": 674.37,
+              "y": 373.85,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 741.66,
+              "y": 368.71,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 760.99,
+              "y": 367.13,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 706.0,
+              "y": 372.97,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 6,
+              "x": 751.33,
+              "y": 367.92,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 683.68,
+              "y": 300.93,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 637.37,
+              "y": 374.61,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 652.36,
+              "y": 362.69,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 673.44,
+              "y": 303.53,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 693.92,
+              "y": 298.34,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 674.32,
+              "y": 358.76,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 638.75,
+              "y": 379.44,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 710.8,
+          "y": 330.73
+        },
+        "scale": 0.854,
+        "bbox": [
+          621.55,
+          245.3,
+          178.51,
+          170.85
+        ],
+        "activity": {
+          "category": "seated",
+          "activity": "seated awaiting rescue"
+        },
+        "extra": {
+          "annotation_id": 447,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 335.99,
+              "y": 463.25,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 317.01,
+              "y": 376.74,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 254.33,
+              "y": 282.95,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 167.03,
+              "y": 272.14,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 165.71,
+              "y": 393.15,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 132.28,
+              "y": 501.5,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 210.68,
+              "y": 277.54,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 232.75,
+              "y": 146.94,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 349.58,
+              "y": 288.79,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 333.4,
+              "y": 255.0,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 290.34,
+              "y": 167.73,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 175.16,
+              "y": 126.16,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 137.6,
+              "y": 125.84,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 148.26,
+              "y": 101.28,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 240.26,
+          "y": 288.29
+        },
+        "scale": 2.672,
+        "bbox": [
+          90.91,
+          21.07,
+          298.7,
+          534.44
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 448,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 833.71,
+              "y": 463.33,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 750.14,
+              "y": 398.55,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 773.16,
+              "y": 345.93,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 796.98,
+              "y": 341.55,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 774.79,
+              "y": 404.1,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 864.31,
+              "y": 479.05,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 785.07,
+              "y": 343.74,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 685.01,
+              "y": 302.27,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 606.47,
+              "y": 388.82,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 648.51,
+              "y": 356.41,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 670.55,
+              "y": 303.39,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 699.47,
+              "y": 301.16,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 675.05,
+              "y": 363.87,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 622.96,
+              "y": 387.31,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 773.79,
+          "y": 392.74
+        },
+        "scale": 1.513,
+        "bbox": [
+          618.13,
+          241.4,
+          311.32,
+          302.67
+        ],
+        "activity": {
+          "category": "lying",
+          "activity": "lying on ground casualty"
+        },
+        "extra": {
+          "annotation_id": 449,
+          "camera_view": "top_down",
+          "altitude_band": "low",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 392.72,
+              "y": 468.81,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 453.58,
+              "y": 394.57,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 532.27,
+              "y": 449.92,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 522.97,
+              "y": 470.43,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 440.58,
+              "y": 405.63,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 390.24,
+              "y": 467.92,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 527.62,
+              "y": 460.18,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 652.28,
+              "y": 405.98,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 604.05,
+              "y": 421.97,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 625.9,
+              "y": 421.54,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 661.02,
+              "y": 394.81,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 643.54,
+              "y": 417.15,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 599.37,
+              "y": 456.98,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 585.77,
+              "y": 421.83,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 519.64,
+          "y": 432.38
+        },
+        "scale": 0.896,
+        "bbox": [
+          334.03,
+          342.8,
+          371.22,
+          179.15
+        ],
+        "activity": {
+          "category": "lying",
+          "activity": "lying on ground casualty"
+        },
+        "extra": {
+          "annotation_id": 450,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000259.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 1,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 2,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 3,
+              "x": 255.25,
+              "y": 645.45,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 5,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 6,
+              "x": 255.25,
+              "y": 645.45,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 424.41,
+              "y": 527.75,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 633.0,
+              "y": 387.57,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 12,
+              "x": 474.75,
+              "y": 520.23,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 374.08,
+              "y": 535.27,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 522.53,
+              "y": 505.93,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 734.65,
+              "y": 476.84,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 436.21,
+          "y": 370.22
+        },
+        "scale": 3.498,
+        "bbox": [
+          11.71,
+          20.44,
+          849.0,
+          699.56
+        ],
+        "activity": {
+          "category": "lying",
+          "activity": "lying on ground casualty"
+        },
+        "extra": {
+          "annotation_id": 451,
+          "camera_view": "top_down",
+          "altitude_band": "low",
+          "occlusion": "partial",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000260.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 209.48,
+              "y": 50.36,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 198.84,
+              "y": 68.5,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 187.66,
+              "y": 87.47,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 206.24,
+              "y": 99.6,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 217.57,
+              "y": 84.11,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 229.43,
+              "y": 67.79,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 196.95,
+              "y": 93.53,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 178.19,
+              "y": 122.26,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 181.27,
+              "y": 81.25,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 172.46,
+              "y": 97.0,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 164.68,
+              "y": 113.43,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 191.71,
+              "y": 131.08,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 203.62,
+              "y": 117.35,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 214.5,
+              "y": 102.95,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 196.5,
+          "y": 94.17
+        },
+        "scale": 0.538,
+        "bbox": [
+          153.56,
+          40.36,
+          85.87,
+          107.63
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 452,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000261.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 1,
+              "x": 649.71,
+              "y": 562.48,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 651.17,
+              "y": 164.74,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 882.46,
+              "y": 179.36,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 865.04,
+              "y": 574.4,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 6,
+              "x": 766.82,
+              "y": 172.05,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 533.75,
+              "y": 45.69,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 555.74,
+              "y": 0.0,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 13,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 14,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 15,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            }
+          ]
+        },
+        "objpos": {
+          "x": 720.28,
+          "y": 319.77
+        },
+        "scale": 3.131,
+        "bbox": [
+          480.57,
+          6.63,
+          479.43,
+          626.29
+        ],
+        "activity": {
+          "category": "crouching",
+          "activity": "crouching under cover"
+        },
+        "extra": {
+          "annotation_id": 453,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "heavy",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 1,
+              "x": 58.51,
+              "y": 509.19,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 30.6,
+              "y": 110.63,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 269.81,
+              "y": 107.81,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 282.3,
+              "y": 509.2,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 6,
+              "x": 150.21,
+              "y": 109.22,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 11,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 12,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 13,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 14,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 15,
+              "x": 539.78,
+              "y": 89.04,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 301.29,
+          "y": 317.47
+        },
+        "scale": 3.15,
+        "bbox": [
+          0.21,
+          2.46,
+          602.17,
+          630.03
+        ],
+        "activity": {
+          "category": "crouching",
+          "activity": "crouching under cover"
+        },
+        "extra": {
+          "annotation_id": 454,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "heavy",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000262.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 630.16,
+              "y": 355.75,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 615.18,
+              "y": 338.43,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 599.54,
+              "y": 320.28,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 580.52,
+              "y": 335.2,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 592.55,
+              "y": 352.32,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 605.24,
+              "y": 370.28,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 590.03,
+              "y": 327.74,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 566.97,
+              "y": 298.34,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 619.88,
+              "y": 306.7,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 602.82,
+              "y": 295.15,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 580.81,
+              "y": 287.49,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 553.14,
+              "y": 309.19,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 555.33,
+              "y": 332.39,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 562.48,
+              "y": 351.71,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 590.35,
+          "y": 325.75
+        },
+        "scale": 0.545,
+        "bbox": [
+          540.54,
+          271.21,
+          99.62,
+          109.07
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 455,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000263.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 528.0,
+              "y": 445.12,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 660.61,
+              "y": 407.11,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 755.43,
+              "y": 444.57,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 729.58,
+              "y": 443.3,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 637.03,
+              "y": 387.75,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 533.46,
+              "y": 435.09,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 742.5,
+              "y": 443.94,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 864.15,
+              "y": 367.89,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 731.08,
+              "y": 233.76,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 784.09,
+              "y": 348.08,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 887.35,
+              "y": 385.55,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 840.95,
+              "y": 350.24,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 770.33,
+              "y": 281.05,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 711.05,
+              "y": 226.63,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 692.76,
+          "y": 317.09
+        },
+        "scale": 2.15,
+        "bbox": [
+          460.84,
+          102.06,
+          463.84,
+          430.05
+        ],
+        "activity": {
+          "category": "lying",
+          "activity": "lying on ground casualty"
+        },
+        "extra": {
+          "annotation_id": 456,
+          "camera_view": "top_down",
+          "altitude_band": "low",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000264.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 383.74,
+              "y": 349.31,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 395.96,
+              "y": 347.78,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 410.65,
+              "y": 346.2,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 410.16,
+              "y": 316.9,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 402.47,
+              "y": 315.69,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 392.32,
+              "y": 314.53,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 410.4,
+              "y": 331.55,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 429.06,
+              "y": 331.24,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 410.22,
+              "y": 376.41,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 419.88,
+              "y": 368.4,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 429.41,
+              "y": 352.55,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 428.7,
+              "y": 309.93,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 418.65,
+              "y": 294.4,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 408.73,
+              "y": 286.72,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 410.41,
+          "y": 331.57
+        },
+        "scale": 0.578,
+        "bbox": [
+          370.74,
+          273.72,
+          79.33,
+          115.69
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 457,
+          "camera_view": "top_down",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 667.6,
+              "y": 357.03,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 653.02,
+              "y": 376.25,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 646.44,
+              "y": 400.25,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 671.61,
+              "y": 415.28,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 689.62,
+              "y": 398.11,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 699.63,
+              "y": 376.15,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 659.03,
+              "y": 407.76,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 650.96,
+              "y": 421.26,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 636.7,
+              "y": 393.19,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 630.1,
+              "y": 399.03,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 632.66,
+              "y": 410.33,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 669.27,
+              "y": 432.19,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 680.43,
+              "y": 429.08,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 682.45,
+              "y": 420.51,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 664.87,
+          "y": 395.22
+        },
+        "scale": 0.512,
+        "bbox": [
+          617.1,
+          344.03,
+          95.53,
+          102.39
+        ],
+        "activity": {
+          "category": "seated",
+          "activity": "seated awaiting rescue"
+        },
+        "extra": {
+          "annotation_id": 458,
+          "camera_view": "top_down",
+          "altitude_band": "mid",
+          "occlusion": "partial",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000265.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 168.94,
+              "y": 552.4,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 167.06,
+              "y": 525.04,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 165.24,
+              "y": 501.42,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 133.99,
+              "y": 501.95,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 133.15,
+              "y": 536.27,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 132.25,
+              "y": 566.87,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 149.62,
+              "y": 501.69,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 148.81,
+              "y": 453.39,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 175.44,
+              "y": 503.66,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 173.99,
+              "y": 478.33,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 171.53,
+              "y": 453.01,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 126.08,
+              "y": 453.78,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 124.46,
+              "y": 479.17,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 123.87,
+              "y": 504.53,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 149.66,
+          "y": 499.82
+        },
+        "scale": 0.81,
+        "bbox": [
+          109.87,
+          418.78,
+          79.57,
+          162.09
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 459,
+          "camera_view": "oblique",
+          "altitude_band": "mid",
+          "occlusion": "partial",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000266.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 875.86,
+              "y": 536.4,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 877.66,
+              "y": 491.05,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 735.61,
+              "y": 468.39,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 743.54,
+              "y": 452.91,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 878.38,
+              "y": 472.12,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 861.6,
+              "y": 512.92,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 739.58,
+              "y": 460.65,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 678.28,
+              "y": 303.32,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 756.28,
+              "y": 363.25,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 748.37,
+              "y": 390.12,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 669.26,
+              "y": 308.81,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 687.31,
+              "y": 297.84,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 765.43,
+              "y": 363.2,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 766.13,
+              "y": 357.06,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 783.62,
+          "y": 351.8
+        },
+        "scale": 2.531,
+        "bbox": [
+          607.78,
+          98.73,
+          351.67,
+          506.14
+        ],
+        "activity": {
+          "category": "crouching",
+          "activity": "crouching under cover"
+        },
+        "extra": {
+          "annotation_id": 460,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000267.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 1,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 2,
+              "x": 205.24,
+              "y": 556.96,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 297.51,
+              "y": 543.94,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 5,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 6,
+              "x": 251.38,
+              "y": 550.45,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 313.47,
+              "y": 323.4,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 376.05,
+              "y": 500.43,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 270.46,
+              "y": 486.19,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 250.13,
+              "y": 332.49,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 376.8,
+              "y": 314.31,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 379.09,
+              "y": 417.76,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 400.67,
+              "y": 489.5,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 293.18,
+          "y": 395.06
+        },
+        "scale": 2.391,
+        "bbox": [
+          128.64,
+          155.99,
+          329.09,
+          478.15
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 461,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "partial",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 1,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 2,
+              "x": 771.71,
+              "y": 560.65,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 778.99,
+              "y": 580.2,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 5,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 6,
+              "x": 775.35,
+              "y": 570.42,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 688.85,
+              "y": 230.9,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 599.86,
+              "y": 405.93,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 675.65,
+              "y": 349.88,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 690.19,
+              "y": 215.2,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 687.51,
+              "y": 246.6,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 692.82,
+              "y": 421.18,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 600.34,
+              "y": 467.64,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 724.68,
+          "y": 360.78
+        },
+        "scale": 2.707,
+        "bbox": [
+          533.88,
+          90.09,
+          381.61,
+          541.39
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 462,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "partial",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      },
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 539.53,
+              "y": 565.04,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 549.42,
+              "y": 466.86,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 575.54,
+              "y": 381.26,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 603.26,
+              "y": 385.36,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 578.72,
+              "y": 476.44,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 577.82,
+              "y": 580.02,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 589.4,
+              "y": 383.31,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 575.56,
+              "y": 273.14,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 553.02,
+              "y": 379.41,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 564.07,
+              "y": 342.57,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 554.74,
+              "y": 273.07,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 596.38,
+              "y": 273.21,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 605.51,
+              "y": 354.2,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 581.07,
+              "y": 395.56,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 551.46,
+          "y": 391.73
+        },
+        "scale": 2.258,
+        "bbox": [
+          483.24,
+          165.93,
+          136.44,
+          451.6
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 463,
+          "camera_view": "oblique",
+          "altitude_band": "low",
+          "occlusion": "none",
+          "label_source": "model_prelabel_unreviewed",
+          "review_status": "unreviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000268.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 460.74,
+              "y": 140.28,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 454.06,
+              "y": 121.17,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 447.88,
+              "y": 103.77,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 426.17,
+              "y": 110.14,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 431.81,
+              "y": 133.01,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 436.94,
+              "y": 154.16,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 437.02,
+              "y": 106.95,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 427.18,
+              "y": 73.41,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 454.84,
+              "y": 103.55,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 449.16,
+              "y": 86.09,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 442.97,
+              "y": 68.77,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 411.39,
+              "y": 78.04,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 415.54,
+              "y": 95.95,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 420.19,
+              "y": 113.72,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 436.06,
+          "y": 106.08
+        },
+        "scale": 0.581,
+        "bbox": [
+          401.39,
+          47.99,
+          69.35,
+          116.17
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 464,
+          "camera_view": "ground_level",
+          "altitude_band": "mid",
+          "occlusion": "partial",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000269.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 295.56,
+              "y": 188.5,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 264.23,
+              "y": 201.65,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 226.19,
+              "y": 217.27,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 237.7,
+              "y": 248.52,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 257.62,
+              "y": 242.8,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 284.25,
+              "y": 234.6,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 231.94,
+              "y": 232.9,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 183.64,
+              "y": 250.68,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 224.31,
+              "y": 204.71,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 199.51,
+              "y": 215.57,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 175.28,
+              "y": 227.95,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 192.01,
+              "y": 273.41,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 218.49,
+              "y": 267.11,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 244.41,
+              "y": 259.29,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 228.19,
+          "y": 230.95
+        },
+        "scale": 0.575,
+        "bbox": [
+          145.82,
+          173.5,
+          164.74,
+          114.91
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 465,
+          "camera_view": "ground_level",
+          "altitude_band": "mid",
+          "occlusion": "none",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  },
+  {
+    "image": {
+      "name": "rs_000270.jpg"
+    },
+    "annorect": [
+      {
+        "annopoints": {
+          "point": [
+            {
+              "id": 0,
+              "x": 302.77,
+              "y": 532.71,
+              "is_visible": 1
+            },
+            {
+              "id": 1,
+              "x": 310.09,
+              "y": 536.03,
+              "is_visible": 1
+            },
+            {
+              "id": 2,
+              "x": 316.25,
+              "y": 538.64,
+              "is_visible": 1
+            },
+            {
+              "id": 3,
+              "x": 328.03,
+              "y": 519.57,
+              "is_visible": 1
+            },
+            {
+              "id": 4,
+              "x": 319.63,
+              "y": 513.18,
+              "is_visible": 1
+            },
+            {
+              "id": 5,
+              "x": 312.39,
+              "y": 507.51,
+              "is_visible": 1
+            },
+            {
+              "id": 6,
+              "x": 322.14,
+              "y": 529.11,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 7,
+              "x": 334.28,
+              "y": 536.6,
+              "is_visible": 1,
+              "derived": true
+            },
+            {
+              "id": 8,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 9,
+              "x": 0.0,
+              "y": 0.0,
+              "is_visible": 0
+            },
+            {
+              "id": 10,
+              "x": 310.57,
+              "y": 546.49,
+              "is_visible": 1
+            },
+            {
+              "id": 11,
+              "x": 317.74,
+              "y": 549.13,
+              "is_visible": 1
+            },
+            {
+              "id": 12,
+              "x": 325.72,
+              "y": 550.47,
+              "is_visible": 1
+            },
+            {
+              "id": 13,
+              "x": 342.84,
+              "y": 522.72,
+              "is_visible": 1
+            },
+            {
+              "id": 14,
+              "x": 338.08,
+              "y": 516.19,
+              "is_visible": 1
+            },
+            {
+              "id": 15,
+              "x": 332.5,
+              "y": 510.96,
+              "is_visible": 1
+            }
+          ]
+        },
+        "objpos": {
+          "x": 323.21,
+          "y": 528.99
+        },
+        "scale": 0.315,
+        "bbox": [
+          292.77,
+          497.51,
+          60.88,
+          62.96
+        ],
+        "activity": {
+          "category": "upright",
+          "activity": "standing or walking in search area"
+        },
+        "extra": {
+          "annotation_id": 466,
+          "camera_view": "top_down",
+          "altitude_band": "mid",
+          "occlusion": "heavy",
+          "label_source": "synthetic",
+          "review_status": "reviewed"
+        }
+      }
+    ]
+  }
+]
