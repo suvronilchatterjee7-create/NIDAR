@@ -7,21 +7,22 @@
 [![License](https://img.shields.io/badge/license-CC_BY_/_Public_Domain-blue.svg)](RescueSwarm_PoseSet_v0.1/LICENSE_LEDGER.csv)
 [![COCO Keypoints](https://img.shields.io/badge/schema-COCO_Keypoints_17-orange.svg)](RescueSwarm_PoseSet_v0.1/annotations/coco/)
 [![MPII Style](https://img.shields.io/badge/schema-MPII_Style_16-purple.svg)](RescueSwarm_PoseSet_v0.1/annotations/mpii/)
-[![Website](https://img.shields.io/badge/website-Vite_+_React-b6ff3b.svg)](website/)
+[![Live site](https://img.shields.io/badge/live_site-nidar--iota.vercel.app-b6ff3b.svg)](https://nidar-iota.vercel.app/)
+[![Deployed on Vercel](https://img.shields.io/badge/deployed_on-Vercel-black.svg?logo=vercel)](https://nidar-iota.vercel.app/)
 
 **300 aerial and disaster-exercise images. 519 people. 17 keypoints, a body outline and a posture label for every one of them.**
 
 This repository holds the dataset package, the toolchain that builds and checks it, and an interactive website that shows it off.
+
+### 🌐 Live site: **[nidar-iota.vercel.app](https://nidar-iota.vercel.app/)**
 
 ![The search drone flying down the website and lighting each headline](docs/screenshots/drone-flight.gif)
 
 | | |
 |---|---|
 | **Dataset** | [`RescueSwarm_PoseSet_v0.1/`](RescueSwarm_PoseSet_v0.1/) · or the one-file [`RescueSwarm_PoseSet_v0.1.zip`](RescueSwarm_PoseSet_v0.1.zip) (40.7 MB) |
-| **Website** | [`website/`](website/) · run it locally, or deploy it on Vercel with the button below |
+| **Website** | **[nidar-iota.vercel.app](https://nidar-iota.vercel.app/)** · source in [`website/`](website/) |
 | **Model** | [`yolov8n-pose.pt`](yolov8n-pose.pt), a pretrained YOLOv8-pose edge model |
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsuvronilchatterjee7-create%2FNIDAR&root-directory=website&project-name=rescueswarm-pose-dataset)
 
 ---
 
@@ -89,7 +90,7 @@ Full breakdowns: [`qa/class_balance.md`](RescueSwarm_PoseSet_v0.1/qa/class_balan
 
 ## 3. A tour of the website
 
-The site in [`website/`](website/) presents the dataset as a drone's-eye mission screen. Every number on it comes from the files in this repo.
+The site, live at **[nidar-iota.vercel.app](https://nidar-iota.vercel.app/)** with its source in [`website/`](website/), presents the dataset as a drone's-eye mission screen. Every number on it comes from the files in this repo.
 
 ### The hero, and a drone that flies down the page
 
@@ -224,9 +225,14 @@ npm run dev        # http://localhost:5173
 `npm run build` writes a static site to `website/dist/`. It needs no backend and no environment variables.
 
 **Deploy on Vercel**
-1. Click **Deploy with Vercel** at the top of this README, or in Vercel choose **Add New → Project** and import this repository.
+
+The official site is deployed at **[nidar-iota.vercel.app](https://nidar-iota.vercel.app/)** and redeploys on every push to `main`. To deploy your own copy:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsuvronilchatterjee7-create%2FNIDAR&root-directory=website&project-name=rescueswarm-pose-dataset)
+
+1. Click the button above, or in Vercel choose **Add New → Project** and import this repository.
 2. Set **Root Directory** to `website`. Vercel reads [`website/vercel.json`](website/vercel.json): framework Vite, install `npm ci`, build `npm run build`, output `dist`.
-3. Click **Deploy**. Every push to `main` then redeploys the site, and other branches get preview links.
+3. Click **Deploy**. Every push to the production branch redeploys the site, and other branches get preview links.
 
 More detail is in [`website/README.md`](website/README.md).
 

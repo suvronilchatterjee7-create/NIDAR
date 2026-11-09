@@ -1,5 +1,7 @@
 # RescueSwarm Pose Dataset — project website
 
+**Live:** https://nidar-iota.vercel.app/
+
 Single-page site for the NIDAR 2.0 RescueSwarm Pose Dataset v0.1, built with Vite + React (no other runtime dependencies).
 
 ## Run
