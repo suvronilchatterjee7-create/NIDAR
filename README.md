@@ -114,3 +114,19 @@ All 300 images are cataloged in [`RescueSwarm_PoseSet_v0.1/LICENSE_LEDGER.csv`](
 - **123 images:** Public Domain (US Gov / Wikimedia Commons).
 - **20 images:** Creative Commons Attribution (CC BY 4.0 / CC BY 2.0).
 - **7 images:** Creative Commons Share-Alike (CC BY-SA 2.0).
+
+---
+
+## 6. Project Website
+
+An interactive site for the dataset lives in [`website/`](website/): an annotation viewer drawn from the COCO JSON, dataset charts, real-vs-synthetic comparison, QA and licence summary, and download instructions. It is built with Vite + React.
+
+```bash
+cd website
+npm install
+npm run dev        # http://localhost:5173
+```
+
+**Deploy on Vercel:** import this repository in Vercel and set **Root Directory** to `website`. The build settings are in [`website/vercel.json`](website/vercel.json).
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsuvronilchatterjee7-create%2FNIDAR&root-directory=website&project-name=rescueswarm-pose-dataset)
